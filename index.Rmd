@@ -1,5 +1,5 @@
 ---
-title: "Frank Hermosillo"
+title: "Gerardo Mirizio"
 image: "gerardo.jpg"
 links:
   - label: LinkedIn
