@@ -1,38 +1,28 @@
 ---
 title: "Gerardo Mirizio"
-image: "gerardo.jpg"
+image: "gerardo.sm.jpg"
 links:
-  - label: Twitter
-    url: "https://twitter.com/"
-  - label: GitHub
-    url: "https://github.com/"
-  - label: Email
-    url: "mailto:email@email.com"
+  - label: '`r fontawesome::fa("twitter", fill = "black")` Twitter'
+    url: "https://twitter.com/ggmirizio"
+  - label: '`r fontawesome::fa("github-square", fill = "black")` GitHub'
+    url: "https://github.com/ggmirizio"
+  - label: '`r fontawesome::fa("envelope", fill = "black")` Email'
+    url: "gerardo.mirizio@cchmc.org"
+
 output:
   postcards::trestles
 ---
- 
-## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+## <span style="color:  "black";"> Bio</span> 
+<br>
+I am a 3rd year Molecular and Developmental Biology PhD student at Cincinnati Children’s Medical Center studying cell fate determination in the context of human development. My research focuses on how epigenetic modifiers interact with pioneer transcription factors to control lineage-specific genes during endoderm differentiation. In our lab, we use a hybrid approach by combining wet and dry lab work to better understand the mechanisms that control gene expression during development and disease.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Cincinnati Children’s Hospital Medical Center** | Cincinnati, OH, USA
 
-Ph.D. in Computer Science | September 2009 - May 2014
+Ph.D. in Molecular and Developmental Biology | July 2021 - Present
 
-**The University of California, Berkeley** | Berkeley, CA
+**Universidad de Chile** | Santiago, CHI
 
-B.S. in Computer Science | September 2005 - May 2009
-
-## Experience
-
-**Google Brain** | Principal Investigator | January 2018 - Present
-
-**Netflix** | Research Scientist | June 2014 - December 2017
+MSc. in Physiology | March 2018 - March 2021
