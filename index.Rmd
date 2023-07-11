@@ -2,8 +2,6 @@
 title: "Gerardo Mirizio"
 image: "gerardo.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
   - label: Twitter
     url: "https://twitter.com/"
   - label: GitHub
